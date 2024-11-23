@@ -2,7 +2,7 @@
 
 **I'm  surendra Ganne**
 
-A passionate software engineer with a focus on Data analysis. I love building innovative web applications and exploring new technologies.
+A passionate software engineer with a focus on Data analysis. I love building innovative Business dashboards and exploring new technologies.
 
 **Skills:**
 * SQL
@@ -13,6 +13,7 @@ A passionate software engineer with a focus on Data analysis. I love building in
 * Creating  Business dahsboard with relevant KPIs
 * Machine learning
 * Cybersecurity
+* SDLC(Software Developement  life cycle )
 
 **Projects:**
 * **Personal Website:**  coming soon
